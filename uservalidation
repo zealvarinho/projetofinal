@@ -1,0 +1,32 @@
+<UserValidation
+
+  whatsappImage20210807At12162
+="whatsapp-image-2021-08-07-at-12-16-2.png"
+  text1
+="Restaurante Leve & Fácil"
+  formInputLabelProps
+
+={{
+    inputBasicI472650: "Email",
+    formInputProps: {
+      children:
+        "Coloque aqui seu email",
+      className: "",
+    },
+  }}
+  formInputLabel2Props
+
+={{
+    inputBasicI472650: "Senha",
+    className: "form-input-pass",
+    formInputProps: {
+      children: "Digite aqui sua senha",
+      className: "form-input-1",
+    },
+  }}
+  buttonSmallPrimaryProps
+
+={{
+    children: "Entrar",
+  }}
+/>;
